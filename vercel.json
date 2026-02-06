@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd enchancia-reader && npm install && npm run build",
+  "outputDirectory": "enchancia-reader/out",
+  "installCommand": "echo 'skip'",
+  "framework": null,
+  "trailingSlash": true
+}
